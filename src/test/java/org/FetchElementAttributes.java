@@ -19,9 +19,6 @@ public class FetchElementAttributes {
         System.out.println("selected:" + driver.findElement(accessibility).getAttribute("selected"));
         System.out.println("displayed:" + driver.findElement(accessibility).getAttribute("displayed"));
 
-        // System.out.println("selected:" + driver.findElement(accessibility).isSelected());
-        // System.out.println("enabled:" + driver.findElement(accessibility).isEnabled());
-        // System.out.println("displayed:" + driver.findElement(accessibility).isDisplayed());
     }
 }
 // How to fetch element attributes?
