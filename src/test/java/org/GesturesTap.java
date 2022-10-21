@@ -7,7 +7,7 @@ import io.appium.java_client.touch.TapOptions;
 import io.appium.java_client.touch.offset.ElementOption;
 import io.appium.java_client.touch.offset.PointOption;
 
-import org.example.StartDriverSession;
+import org.SessionManager.StartDriverSession;
 import org.openqa.selenium.By;
 
 import java.util.concurrent.TimeUnit;

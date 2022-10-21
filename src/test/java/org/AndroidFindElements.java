@@ -1,6 +1,6 @@
 package org;
 
-import org.example.StartDriverSession;
+import org.SessionManager.StartDriverSession;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;

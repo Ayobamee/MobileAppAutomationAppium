@@ -5,7 +5,7 @@ import io.appium.java_client.MobileBy;
 import io.appium.java_client.TouchAction;
 import io.appium.java_client.touch.offset.PointOption;
 
-import org.example.StartDriverSession;
+import org.SessionManager.StartDriverSession;
 import org.openqa.selenium.By;
 
 public class ElementBasicActions {
